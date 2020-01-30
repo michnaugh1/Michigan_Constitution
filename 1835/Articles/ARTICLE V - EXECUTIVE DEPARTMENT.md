@@ -26,7 +26,7 @@ Same; execution of the laws.
 
 7. He shall take care that the laws be faithfully executed.
 
-Same; special sessions of legislature, messages.
+Same; special sessions of legislature, messages. 
 
 8. He shall have the power to convene the legislature on extraordinary occasions. He shall communicate by message, to the legislature, at every session the condition of the state, and recommend such matters to them as he shall deem expedient.
 
