@@ -80,4 +80,4 @@ Right to assemble and petition.
 
 Acts void.
 
-21. All acts of the legislature contrary to this or any other article of this Constitution shall be void.
+21. All acts of the legislature contrary to this or any other article of this Constitution shall be void. 
