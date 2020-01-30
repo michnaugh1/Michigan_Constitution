@@ -1,9 +1,7 @@
 
 
 CONSTITUTION OF MICHIGAN
-
 OF
-
 1835
 
 In convention, begun at the city of Detroit, on the second Monday of May, in the year one thousand eight hundred and thirty five:
