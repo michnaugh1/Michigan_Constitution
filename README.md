@@ -1,6 +1,6 @@
 # Michigan Constitution
 
-The State of Michigan has adopted four Constitutions in its history. Below is from History of Michigan's Constitutions from the Michigan Legislature. Available at: https://www.legislature.mi.gov/documents/Publications/Constitution.pdf 
+The State of Michigan has adopted four Constitutions in its history. Below is from [History of Michigan's Constitutions from the Michigan Legislature.](https://www.legislature.mi.gov/documents/Publications/Constitution.pdf)
 
 This project was inspired by the github page of a history of the United States Constitution by [JesseKPhillips](https://github.com/JesseKPhillips/USA-Constitution)
 
