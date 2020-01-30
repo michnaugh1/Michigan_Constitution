@@ -4,10 +4,11 @@ The State of Michigan has adopted four Constitutions in its history. Below is fr
 
 This project was inspired by the github page of a history of the United States Constitution by JesseKPhillips available at: https://github.com/JesseKPhillips/USA-Constitution 
 
-[1835/README.md] - was adopted two years before Michigan became a state;
-Constitutional Convention of 1835 met at the Territorial Capitol in Detroit; 
-Presented at an election held on October 5 and 6, 1835; and 
-Adopted by a vote of 6,752 to 1,374.
+[1835] (https://github.com/michnaugh1/Michigan_Constitution/blob/master/1835/README.md)
+- was adopted two years before Michigan became a state;
+- Constitutional Convention of 1835 met at the Territorial Capitol in Detroit; 
+- Presented at an election held on October 5 and 6, 1835; and 
+- Adopted by a vote of 6,752 to 1,374.
 
 1850 - Constitutional Convention met at Lansing; 
 Presented at an election held on November 5, 1850; and 
