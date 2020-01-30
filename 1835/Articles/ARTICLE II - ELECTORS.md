@@ -20,4 +20,4 @@ Residence not lost on account of absence on public business.
 
 Residence not gained because of military service here.
 
-6. No soldier, seaman or marine, in the army or navy of the United States, shall be deemed a resident of this state in consequence of being stationed in any military or naval place within the same.
+6. No soldier, seaman or marine, in the army or navy of the United States, shall be deemed a resident of this state in consequence of being stationed in any military or naval place within the same. 
