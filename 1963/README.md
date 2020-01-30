@@ -8,9 +8,6 @@ PREAMBLE
 
 We, the people of the State of Michigan, grateful to Almighty God for the blessings of freedom, and earnestly desiring to secure these blessings undiminished to ourselves and our posterity, do ordain and establish this constitution.
 
-
-© 2017 Legislative Council, State of Michigan
-
 Article I
 DECLARATION OF RIGHTS
 
@@ -24,8 +21,6 @@ Sec. 1.
 History: Const. 1963, Art. I, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 Equal protection; discrimination.
 
@@ -34,9 +29,6 @@ Sec. 2.
 
 
 History: Const. 1963, Art. I, § 2, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 3 Assembly, consultation, instruction, petition.
 
@@ -47,9 +39,6 @@ Sec. 3.
 History: Const. 1963, Art. I, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 4 Freedom of worship and religious belief; appropriations.
 
 Sec. 4.
@@ -58,9 +47,6 @@ Sec. 4.
 
 History: Const. 1963, Art. I, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 3.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 5 Freedom of speech and of press.
 
@@ -71,9 +57,6 @@ Sec. 5.
 History: Const. 1963, Art. I, § 5, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 4.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 6 Bearing of arms.
 
 Sec. 6.
@@ -82,9 +65,6 @@ Sec. 6.
 
 History: Const. 1963, Art. I, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 5.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 7 Military power subordinate to civil power.
 
@@ -95,9 +75,6 @@ Sec. 7.
 History: Const. 1963, Art. I, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 8 Quartering of soldiers.
 
 Sec. 8.
@@ -106,9 +83,6 @@ Sec. 8.
 
 History: Const. 1963, Art. I, § 8, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 7.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 9 Slavery and involuntary servitude.
 
@@ -119,9 +93,6 @@ Sec. 9.
 History: Const. 1963, Art. I, § 9, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 8.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 10 Attainder; ex post facto laws; impairment of contracts.
 
 Sec. 10.
@@ -130,9 +101,6 @@ Sec. 10.
 
 History: Const. 1963, Art. I, § 10, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 9.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 11 Searches and seizures.
 
@@ -144,9 +112,6 @@ History: Const. 1963, Art. I, § 11, Eff. Jan. 1, 1964
 Constitutionality: The last sentence of this section was held invalid as in conflict with US Const, Am IV. Lucas v People, 420 F2d 259 (CA 6, 1970); Caver v Kropp, 306 F Supp 1329 (DC Mich 1969); People v Pennington, 383 Mich 611; 178 NW2d 460 (1970); People v Andrews, 21 Mich App 731; 176 NW2d 460 (1970).
 Former Constitution: See Const. 1908, Art. II, § 10.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 12 Habeas corpus.
 
 Sec. 12.
@@ -155,9 +120,6 @@ Sec. 12.
 
 History: Const. 1963, Art. I, § 12, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 11.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 13 Conduct of suits in person or by counsel.
 
@@ -168,9 +130,6 @@ Sec. 13.
 History: Const. 1963, Art. I, § 13, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 12.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 14 Jury trials.
 
 Sec. 14.
@@ -179,9 +138,6 @@ Sec. 14.
 
 History: Const. 1963, Art. I, § 14, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 13.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 15 Double jeopardy; bailable offenses; commencement of trial if bail denied; bail hearing; effective date.
 
@@ -200,9 +156,6 @@ History: Const. 1963, Art. I, § 15, Eff. Jan. 1, 1964 ;-- Am. H.J.R. Q, approve
 Effective Date: The language certified by the Board of Canvassers was identical to House Joint Resolution Q of 1978, except for the deletion of the last sentence which contained the proposed May 1, 1979, effective date.The May 1, 1979, effective date provision of House Joint Resolution Q was not stated in the text of ballot Proposal K or in any of the material circulated by the Secretary of State, and was neither considered nor voted upon by the electors in the November 7, 1978, general election.Therefore, the effective date of Proposal K is December 23, 1978, which was the date 45 days after the election as provided by Const. 1963, Art. XII, § 1. Op. Atty. Gen., No. 5533 (1979).
 Former Constitution: See Const. 1908, Art. II, § 14.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 16 Bail; fines; punishments; detention of witnesses.
 
 Sec. 16.
@@ -211,9 +164,6 @@ Sec. 16.
 
 History: Const. 1963, Art. I, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 15.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 17 Self-incrimination; due process of law; fair treatment at investigations.
 
@@ -224,9 +174,6 @@ Sec. 17.
 History: Const. 1963, Art. I, § 17, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 16.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 18 Witnesses; competency, religious beliefs.
 
 Sec. 18.
@@ -235,9 +182,6 @@ Sec. 18.
 
 History: Const. 1963, Art. I, § 18, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 17.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 19 Libels, truth as defense.
 
@@ -248,9 +192,6 @@ Sec. 19.
 History: Const. 1963, Art. I, § 19, Eff. Jan 1. 1964
 Former Constitution: See Const. 1908, Art. II, § 18.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 20 Rights of accused in criminal prosecutions.
 
 Sec. 20.
@@ -259,9 +200,6 @@ Sec. 20.
 
 History: Const. 1963, Art. I, § 20, Eff. Jan. 1, 1964 ;-- Am. H.J.R. M, approved Aug. 8, 1972, Eff. Sept. 23, 1972 ;-- Am. S.J.R. D, approved Nov. 8, 1994, Eff. Dec. 24, 1994
 Former Constitution: See Const. 1908, Art. II, § 19.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 21 Imprisonment for debt.
 
@@ -272,9 +210,6 @@ Sec. 21.
 History: Const. 1963, Art. I, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 20.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 22 Treason; definition, evidence.
 
 Sec. 22.
@@ -284,9 +219,6 @@ Sec. 22.
 History: Const. 1963, Art. I, § 22, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. II, § 21.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 23 Enumeration of rights not to deny others.
 
 Sec. 23.
@@ -294,9 +226,6 @@ Sec. 23.
 
 
 History: Const. 1963, Art. I, § 23, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 24 Rights of crime victims; enforcement; assessment against convicted defendants.
 
@@ -317,8 +246,6 @@ Sec. 24.
 
 History: Add. H.J.R. P, approved Nov. 8, 1988, Eff. Dec. 24, 1988
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 25 Marriage.
 
@@ -328,9 +255,6 @@ Sec. 25.
 
 History: Add. Init., approved Nov. 2, 2004, Eff. Dec. 18, 2004
 Constitutionality: In Obergefell v Hodges, 576 U.S. ___ (2015), the United State Supreme Court held that the Fourteenth Amendment requires a state to license a marriage between 2 people of the same sex and to recognize a marriage between 2 people of the same sex when their marriage was lawfully licensed and performed in another state.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 26 Affirmative action programs.
 
@@ -347,9 +271,6 @@ Sec. 26.
 
 
 History: Add. Init., approved Nov. 7, 2006, Eff. Dec. 23, 2006
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 27 Human embryo and embryonic stem cell research.
 
@@ -369,7 +290,6 @@ Section 27.
 
 History: Add. Init., approved Nov. 4, 2008, Eff. Dec. 19, 2008
 
-© 2020 Legislative Council, State of Michigan
 Article II
 ELECTIONS
 
@@ -384,9 +304,6 @@ History: Const. 1963, Art. II, § 1, Eff. Jan. 1, 1964
 Compiler's Notes: U.S. Const., Amendment XXVI, § 1, provides: “The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.”
 Former Constitution: See Const. 1908, Art. III, §§ 1-3.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 2 Mental incompetence; imprisonment.
 
 Sec. 2.
@@ -395,9 +312,6 @@ Sec. 2.
 
 History: Const. 1963, Art. II, § 2, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 3 Presidential electors; residence.
 
 Sec. 3.
@@ -405,9 +319,6 @@ Sec. 3.
 
 
 History: Const. 1963, Art. II, § 3, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Place and manner of elections.
 
@@ -429,9 +340,6 @@ History: Const. 1963, Art. II, § 4, Eff. Jan. 1, 1964 ;-- Am. Init., approved N
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-3 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 Former Constitution: See Const. 1908, Art. III, §§ 1, 8.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Time of elections.
 
 Sec. 5.
@@ -439,9 +347,6 @@ Sec. 5.
 
 
 History: Const. 1963, Art. II, § 5, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Voters on tax limit increases or bond issues.
 
@@ -452,9 +357,6 @@ Sec. 6.
 History: Const. 1963, Art. II, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. III, § 4.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 7 Boards of canvassers.
 
 Sec. 7.
@@ -464,9 +366,6 @@ Sec. 7.
 History: Const. 1963, Art. II, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. III, § 9.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 8 Recalls.
 
 Sec. 8.
@@ -475,9 +374,6 @@ Sec. 8.
 
 History: Const. 1963, Art. II, § 8, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. III, § 8.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 9 Initiative and referendum; limitations; appropriations; petitions.
 
@@ -494,9 +390,6 @@ History: Const. 1963, Art. II, § 9, Eff. Jan. 1, 1964
 Constitutionality: A law proposed by initiative petition which is enacted by the Legislature without change or amendment within forty days of its reception takes effect ninety days after the end of the session in which it was enacted unless two-thirds of the members of each house of the Legislature vote to give it immediate effect. Frey v Department of Management and Budget, 429 Mich 315; 414 NW2d 873 (1987).
 Former Constitution: See Const. 1908, Art. V, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 10 Limitations on terms of office of members of the United States House of Representatives and United States Senate from Michigan.
 
 Sec. 10.
@@ -509,21 +402,16 @@ Sec. 10.
 History: Add. Init., approved Nov. 3, 1992, Eff. Dec. 19, 1992
 Constitutionality: U.S. Supreme Court found that an amendment to the Arkansas Constitution prohibiting the name of an otherwise-eligible candidate for Congress from appearing on the ballot if that candidate had already served 3 terms in the House of Representatives and 2 terms in the Senate was in violation of the Federal Constitution. The Supreme Court held that: “(1) states may not impose qualifications for offices of the United States representative or United States senator in addition to those set forth by the Constitution; (2) power to set additional qualifications was not reserved to the states by the Tenth Amendment; and (3) state provision is unconstitutional when it has likely effect of handicapping a class of candidates and has sole purpose of creating additional qualifications indirectly.” US Term Limits, Inc v Thornton, 514 US 779; 115 S Ct 1842; 131 L Ed 2d 884 (1995).
 
-© 2020 Legislative Council, State of Michigan
 Article III
 GENERAL GOVERNMENT
-
 
 § 1 Seat of government.
 
 Sec. 1.
    The seat of government shall be at Lansing.
 
-
 History: Const. 1963, Art. III, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. I, § 2.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 2 Separation of powers of government.
@@ -535,9 +423,6 @@ Sec. 2.
 History: Const. 1963, Art. III, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IV, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 3 Great seal.
 
 Sec. 3.
@@ -546,9 +431,6 @@ Sec. 3.
 
 History: Const. 1963, Art. III, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, §§ 11, 12.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Militia.
 
@@ -559,9 +441,6 @@ Sec. 4.
 History: Const. 1963, Art. III, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XV, §§ 1-3.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Intergovernmental agreements; service by public officers and employees.
 
 Sec. 5.
@@ -569,9 +448,6 @@ Sec. 5.
 
 
 History: Const. 1963, Art. III, § 5, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Internal improvements.
 
@@ -582,9 +458,6 @@ Sec. 6.
 History: Const. 1963, Art. III, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 14.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 7 Common law and statutes, continuance.
 
 Sec. 7.
@@ -594,18 +467,13 @@ Sec. 7.
 History: Const. 1963, Art. III, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 8 Opinions on constitutionality by supreme court.
 
 Sec. 8.
    Either house of the legislature or the governor may request the opinion of the supreme court on important questions of law upon solemn occasions as to the constitutionality of legislation after it has been enacted into law but before its effective date.
 
-
 History: Const. 1963, Art. III, § 8, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
 Article IV
 LEGISLATIVE BRANCH
 
@@ -620,9 +488,6 @@ History: Const. 1963, Art. IV, § 1, Eff. Jan. 1, 1964 ;-- Am. Init., approved N
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 Former Constitution: See Const. 1908, Art. V, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 2 Senators, number, term.
 
 Sec. 2.
@@ -633,9 +498,6 @@ History: Const. 1963, Art. IV, § 2, Eff. Jan. 1, 1964 ;-- Am. Init., approved N
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 Constitutionality: The United States Supreme Court held in Reynolds v Sims, 377 US 533; 84 S Ct 1362; 12 L Ed 2d 506 (1964) that provisions establishing weighted land area-population formulae violate the Equal Protection Clause of the United States Constitution. Because the apportionment provisions of former art 4, §§ 2 - 6 are interdependent and not severable, the provisions are invalidated in their entirety and the Commission on Legislative Apportionment cannot survive. In re Apportionment of State Legislature—1982, 413 Mich 96; 321 NW2d 565 (1982), rehearing denied 413 Mich 149; 321 NW2d 585; stay denied 413 Mich 222; 321 NW2d 615, appeal dismissed 459 US 900; 103 S Ct 201; 74 L Ed 2d 161.
 Former Constitution: See Const. 1908, Art. V, § 2.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 3 Representatives, number, term; contiguity of districts.
 
@@ -648,24 +510,14 @@ Compiler's Notes: The constitutional amendment set out above was submitted to, a
 Constitutionality: The United States Supreme Court held in Reynolds v Sims, 377 US 533; 84 S Ct 1362; 12 L Ed 2d 506 (1964) that provisions establishing weighted land area-population formulae violate the Equal Protection Clause of the United States Constitution. Because the apportionment provisions of former art IV, §§ 2 - 6 are interdependent and not severable, the provisions are invalidated in their entirety and the Commission on Legislative Apportionment cannot survive. In re Apportionment of State Legislature—1982, 413 Mich 96; 321 NW2d 565 (1982), rehearing denied 413 Mich 149; 321 NW2d 585; stay denied 413 Mich 222; 321 NW2d 615, appeal dismissed 459 US 900; 103 S Ct 201; 74 L Ed 2d 161.
 Former Constitution: See Const. 1908, Art. V, § 3.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 4 Annexation or merger with a city.
 
 
 History: Abrogated. Init., approved Nov. 6, 2018, Eff. Dec. 22, 2018
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Island areas, contiguity.
 
-
 History: Abrogated. Init., approved Nov. 6, 2018, Eff. Dec. 22, 2018
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Independent citizens redistricting commission for state legislative and congressional districts.
 
@@ -741,9 +593,6 @@ History: Const. 1963, Art. IV, § 6, Eff. Jan. 1, 1964 ;-- Am. Init., approved N
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 Constitutionality: The United States Supreme Court held in Reynolds v Sims, 377 US 533; 84 S Ct 1362; 12 L Ed 2d 506 (1964) that provisions establishing weighted land area-population formulae violate the Equal Protection Clause of the United States Constitution. Because the apportionment provisions of former art IV, §§ 2 - 6 are interdependent and not severable, the provisions are invalidated in their entirety and the Commission on Legislative Apportionment cannot survive. In re Apportionment of State Legislature—1982, 413 Mich 96; 321 NW2d 565 (1982), rehearing denied 413 Mich 149; 321 NW2d 585; stay denied 413 Mich 222; 321 NW2d 615, appeal dismissed 459 US 900; 103 S Ct 201; 74 L Ed 2d 161.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 7 Legislators; qualifications, removal from district.
 
 Sec. 7.
@@ -752,9 +601,6 @@ Sec. 7.
 
 History: Const. 1963, Art. IV, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 5.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 8 Ineligibility of government officers and employees.
 
@@ -765,9 +611,6 @@ Sec. 8.
 History: Const. 1963, Art. IV, § 8, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 9 Civil appointments, ineligibility of legislators.
 
 Sec. 9.
@@ -776,9 +619,6 @@ Sec. 9.
 
 History: Const. 1963, Art. IV, § 9, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 7.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 10 Legislators and state officers, government contracts, conflict of interest.
 
@@ -789,9 +629,6 @@ Sec. 10.
 History: Const. 1963, Art. IV, § 10, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, §§ 7, 25.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 11 Legislators privileged from civil arrest and civil process; limitation; questioning for speech in either house prohibited.
 
 Sec. 11.
@@ -800,9 +637,6 @@ Sec. 11.
 
 History: Const. 1963, Art. IV, § 11, Eff. Jan. 1, 1964 ;-- Am. S.J.R. A, approved Nov. 2, 1982, Eff. Dec. 18, 1982
 Former Constitution: See Const. 1908, Art. V, § 8.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 12 State officers compensation commission.
 
@@ -813,9 +647,6 @@ Sec. 12.
 
 History: Const. 1963, Art. IV, § 12, Eff. Jan. 1, 1964 ;-- Am. H.J.R. AAA, approved Aug. 6, 1968, Eff. Sept. 21, 1968 ;-- Am. H.J.R. E, approved Aug. 6, 2002, Eff. Sept. 21, 2002
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 13 Legislature; time of convening, sine die adjournment, measures carried over.
 
 Sec. 13.
@@ -824,9 +655,6 @@ Sec. 13.
 
 History: Const. 1963, Art. IV, § 13, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 13.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 14 Quorum; powers of less than quorum.
 
@@ -837,9 +665,6 @@ Sec. 14.
 History: Const. 1963, Art. IV, § 14, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 14.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 15 Legislative council.
 
 Sec. 15.
@@ -847,9 +672,6 @@ Sec. 15.
 
 
 History: Const. 1963, Art. IV, § 15, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 16 Legislature; officers, rules of procedure, expulsion of members.
 
@@ -860,9 +682,6 @@ Sec. 16.
 History: Const. 1963, Art. IV, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 15.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 17 Committees; record of votes, public inspection, notice of hearings.
 
 Sec. 17.
@@ -870,8 +689,6 @@ Sec. 17.
 
 
 History: Const. 1963, Art. IV, § 17, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 18 Journal of proceedings; record of votes, dissents.
@@ -883,9 +700,6 @@ Sec. 18.
 History: Const. 1963, Art. IV, § 18, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 16.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 19 Record of votes on elections and advice and consent.
 
 Sec. 19.
@@ -894,9 +708,6 @@ Sec. 19.
 
 History: Const. 1963, Art. IV, § 19, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 17.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 20 Open meetings.
 
@@ -907,9 +718,6 @@ Sec. 20.
 History: Const. 1963, Art. IV, § 20, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 18.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 21 Adjournments, limitations.
 
 Sec. 21.
@@ -918,9 +726,6 @@ Sec. 21.
 
 History: Const. 1963, Art. IV, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 18.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 22 Bills.
 
@@ -931,9 +736,6 @@ Sec. 22.
 History: Const. 1963, Art. IV, § 22, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 19.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 23 Style of laws.
 
 Sec. 23.
@@ -942,9 +744,6 @@ Sec. 23.
 
 History: Const. 1963, Art. IV, § 23, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 20.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 24 Laws; object, title, amendments changing purpose.
 
@@ -955,9 +754,6 @@ Sec. 24.
 History: Const. 1963, Art. IV, § 24, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, §§ 21, 22.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 25 Revision and amendment of laws; title references, publication of entire sections.
 
 Sec. 25.
@@ -966,8 +762,6 @@ Sec. 25.
 
 History: Const. 1963, Art. IV, § 25, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 21.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 26 Bills; printing, possession, reading, vote on passage.
@@ -980,9 +774,6 @@ History: Const. 1963, Art. IV, § 26, Eff. Jan. 1, 1964
 Constitutionality: In Advisory Opinion on Constitutionality of 1978 PA 426, 403 Mich. 631, 272 N.W.2d 495 (1978), the Michigan supreme court held that the lieutenant governor may cast a tie-breaking vote during the final consideration of a bill when the senate is equally divided, and 1978 PA 426 was constitutionally enacted.
 Former Constitution: See Const. 1908, Art. V, §§ 22, 23.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 27 Laws, effective date.
 
 Sec. 27.
@@ -993,9 +784,6 @@ History: Const. 1963, Art. IV, § 27, Eff. Jan. 1, 1964
 Constitutionality: A law proposed by initiative petition which is enacted by the Legislature without change or amendment within forty days of its reception takes effect ninety days after the end of the session in which it was enacted unless two-thirds of the members of each house of the Legislature vote to give it immediate effect. Frey v Department of Management and Budget, 429 Mich 315; 414 NW2d 873 (1987).
 Former Constitution: See Const. 1908, Art. V, § 21.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 28 Bills, subjects at special session.
 
 Sec. 28.
@@ -1004,9 +792,6 @@ Sec. 28.
 
 History: Const. 1963, Art. IV, § 28, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 22.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 29 Local or special acts.
 
@@ -1017,9 +802,6 @@ Sec. 29.
 History: Const. 1963, Art. IV, § 29, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 30.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 30 Appropriations; local or private purposes.
 
 Sec. 30.
@@ -1029,9 +811,6 @@ Sec. 30.
 History: Const. 1963, Art. IV, § 30, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 24.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 31 General appropriation bills; priority, statement of estimated revenue.
 
 Sec. 31.
@@ -1039,9 +818,6 @@ Sec. 31.
 
 
 History: Const. 1963, Art. IV, § 31, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 32 Laws imposing taxes.
 
@@ -1052,9 +828,6 @@ Sec. 32.
 History: Const. 1963, Art. IV, § 32, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 33 Bills passed; approval by governor or veto, reconsideration by legislature.
 
 Sec. 33.
@@ -1063,9 +836,6 @@ Sec. 33.
 
 History: Const. 1963, Art. IV, § 33, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 36.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 34 Bills, referendum.
 
@@ -1076,9 +846,6 @@ Sec. 34.
 History: Const. 1963, Art. IV, § 34, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 38.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 35 Publication and distribution of laws and judicial decisions.
 
 Sec. 35.
@@ -1087,9 +854,6 @@ Sec. 35.
 
 History: Const. 1963, Art. IV, § 35, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 39.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 36 General revision of laws; compilation of laws.
 
@@ -1100,9 +864,6 @@ Sec. 36.
 History: Const. 1963, Art. IV, § 36, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 40.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 37 Administrative rules, suspension by legislative committee.
 
 Sec. 37.
@@ -1110,9 +871,6 @@ Sec. 37.
 
 
 History: Const. 1963, Art. IV, § 37, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 38 Vacancies in office.
 
@@ -1123,9 +881,6 @@ Sec. 38.
 History: Const. 1963, Art. IV, § 38, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 5.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 39 Continuity of government in emergencies.
 
 Sec. 39.
@@ -1134,9 +889,6 @@ Sec. 39.
 
 History: Const. 1963, Art. IV, § 39, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 5.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 40 Alcoholic beverages; age requirement; liquor control commission; excise tax; local option.
 
@@ -1148,9 +900,6 @@ Sec. 40.
 History: Const. 1963, Art. IV, § 40, Eff. Jan. 1, 1964 ;-- Am. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Former Constitution: See Const. 1908, Art. XVI, § 11.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 41 Lotteries.
 
 Sec. 41.
@@ -1159,9 +908,6 @@ Sec. 41.
 
 History: Const. 1963, Art. IV, § 41, Eff. Jan. 1, 1964 ;-- Am. H.J.R. V, approved May 16, 1972, Eff. July 1, 1972 ;-- Am. Init., approved Nov. 2, 2004, Eff. Dec. 18, 2004
 Former Constitution: See Const. 1908, Art. V, § 33.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 42 Ports and port districts; incorporation, internal.
 
@@ -1172,9 +918,6 @@ Sec. 42.
 History: Const. 1963, Art. IV, § 42, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 30.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 43 Bank and trust company laws.
 
 Sec. 43.
@@ -1183,9 +926,6 @@ Sec. 43.
 
 History: Const. 1963, Art. IV, § 43, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XII, § 9.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 44 Trial by jury in civil cases.
 
@@ -1196,9 +936,6 @@ Sec. 44.
 History: Const. 1963, Art. IV, § 44, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 27.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 45 Indeterminate sentences.
 
 Sec. 45.
@@ -1208,9 +945,6 @@ Sec. 45.
 History: Const. 1963, Art. IV, § 45, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 28.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 46 Death penalty.
 
 Sec. 46.
@@ -1218,9 +952,6 @@ Sec. 46.
 
 
 History: Const. 1963, Art. IV, § 46, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 47 Chaplains in state institutions.
 
@@ -1231,9 +962,6 @@ Sec. 47.
 History: Const. 1963, Art. IV, § 47, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 26.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 48 Disputes concerning public employees.
 
 Sec. 48.
@@ -1242,9 +970,6 @@ Sec. 48.
 
 History: Const. 1963, Art. IV, § 48, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 7.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 49 Hours and conditions of employment.
 
@@ -1255,9 +980,6 @@ Sec. 49.
 History: Const. 1963, Art. IV, § 49, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 29.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 50 Atomic and new forms of energy.
 
 Sec. 50.
@@ -1265,9 +987,6 @@ Sec. 50.
 
 
 History: Const. 1963, Art. IV, § 50, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 51 Public health and general welfare.
 
@@ -1277,9 +996,6 @@ Sec. 51.
 
 History: Const. 1963, Art. IV, § 51, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 52 Natural resources; conservation, pollution, impairment, destruction.
 
 Sec. 52.
@@ -1287,9 +1003,6 @@ Sec. 52.
 
 
 History: Const. 1963, Art. IV, § 52, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 53 Auditor general; appointment, qualifications, term, removal, post audits.
 
@@ -1302,9 +1015,6 @@ Sec. 53.
 
 History: Const. 1963, Art. IV, § 53, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 54 Limitations on terms of office of state legislators.
 
 Sec. 54.
@@ -1314,7 +1024,6 @@ Sec. 54.
 
 History: Add. Init., approved Nov. 3, 1992, Eff. Dec. 19, 1992
 
-© 2020 Legislative Council, State of Michigan
 Article V
 EXECUTIVE BRANCH
 
@@ -1329,9 +1038,6 @@ History: Const. 1963, Art. V, § 1, Eff. Jan. 1, 1964 ;-- Am. Init., approved No
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 Former Constitution: See Const. 1908, Art. VI, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 2 Principal departments.
 
 Sec. 2.
@@ -1343,9 +1049,6 @@ Sec. 2.
 History: Const. 1963, Art. V, § 2, Eff. Jan. 1, 1964 ;-- Am. Init., approved Nov. 6, 2018, Eff. Dec. 22, 2018
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 3 Single heads of departments; appointment, term.
 
 Sec. 3.
@@ -1356,9 +1059,6 @@ Sec. 3.
 
 History: Const. 1963, Art. V, § 3, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 4 Commissions or agencies for less than 2 years.
 
 Sec. 4.
@@ -1368,9 +1068,6 @@ Sec. 4.
 History: Const. 1963, Art. V, § 4, Eff. Jan. 1, 1964 ;-- Am. Init., approved Nov. 6, 2018, Eff. Dec. 22, 2018
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Examining or licensing board members, qualifications.
 
 Sec. 5.
@@ -1378,9 +1075,6 @@ Sec. 5.
 
 
 History: Const. 1963, Art. V, § 5, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Advice and consent to appointments.
 
@@ -1390,9 +1084,6 @@ Sec. 6.
 
 History: Const. 1963, Art. V, § 6, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 7 Vacancies in office; filling, senatorial disapproval of appointees.
 
 Sec. 7.
@@ -1401,9 +1092,6 @@ Sec. 7.
 
 History: Const. 1963, Art. V, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 10.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 8 Principal departments, supervision of governor; information from state officers.
 
@@ -1415,9 +1103,6 @@ Sec. 8.
 History: Const. 1963, Art. V, § 8, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 3.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 9 Principal departments, location.
 
 Sec. 9.
@@ -1426,9 +1111,6 @@ Sec. 9.
 
 History: Const. 1963, Art. V, § 9, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 1.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 10 Removal or suspension of officers; grounds, report.
 
@@ -1439,9 +1121,6 @@ Sec. 10.
 History: Const. 1963, Art. V, § 10, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IX, § 7.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 11 Provisional appointments to fill vacancies due to suspension.
 
 Sec. 11.
@@ -1450,9 +1129,6 @@ Sec. 11.
 
 History: Const. 1963, Art. V, § 11, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IX, § 5.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 12 Military powers.
 
@@ -1463,9 +1139,6 @@ Sec. 12.
 History: Const. 1963, Art. V, § 12, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 4.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 13 Elections to fill vacancies in legislature.
 
 Sec. 13.
@@ -1474,9 +1147,6 @@ Sec. 13.
 
 History: Const. 1963, Art. V, § 13, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 6.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 14 Reprieves, commutations and pardons.
 
@@ -1487,9 +1157,6 @@ Sec. 14.
 History: Const. 1963, Art. V, § 14, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 9.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 15 Extra sessions of legislature.
 
 Sec. 15.
@@ -1498,9 +1165,6 @@ Sec. 15.
 
 History: Const. 1963, Art. V, § 15, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 7.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 16 Legislature other than at seat of government.
 
@@ -1511,9 +1175,6 @@ Sec. 16.
 History: Const. 1963, Art. V, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 8.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 17 Messages and recommendations to legislature.
 
 Sec. 17.
@@ -1523,9 +1184,6 @@ Sec. 17.
 History: Const. 1963, Art. V, § 17, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 5.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 18 Budget; general and deficiency appropriation bills.
 
 Sec. 18.
@@ -1533,9 +1191,6 @@ Sec. 18.
 
 
 History: Const. 1963, Art. V, § 18, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 19 Disapproval of items in appropriation bills.
 
@@ -1546,9 +1201,6 @@ Sec. 19.
 History: Const. 1963, Art. V, § 19, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. V, § 37.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 20 Reductions in expenditures.
 
 Sec. 20.
@@ -1556,9 +1208,6 @@ Sec. 20.
 
 
 History: Const. 1963, Art. V, § 20, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 21 State elective executive officers; term, election.
 
@@ -1571,9 +1220,6 @@ Sec. 21.
 History: Const. 1963, Art. V, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 22 Governor and lieutenant governor, qualifications.
 
 Sec. 22.
@@ -1582,9 +1228,6 @@ Sec. 22.
 
 History: Const. 1963, Art. V, § 22, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 13.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 23 State elective executive officers, compensation.
 
@@ -1595,9 +1238,6 @@ Sec. 23.
 History: Const. 1963, Art. V, § 23, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 21.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 24 Executive residence.
 
 Sec. 24.
@@ -1605,9 +1245,6 @@ Sec. 24.
 
 
 History: Const. 1963, Art. V, § 24, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 25 Lieutenant governor; president of senate, tie vote, duties.
 
@@ -1618,9 +1255,6 @@ Sec. 25.
 History: Const. 1963, Art. V, § 25, Eff. Jan. 1, 1964
 Constitutionality: In Advisory Opinion on Constitutionality of 1978 PA 426, 403 Mich. 631, 272 N.W.2d 495 (1978), the Michigan supreme court held that the lieutenant governor may cast a tie-breaking vote during the final consideration of a bill when the senate is equally divided, and 1978 PA 426 was constitutionally enacted.
 Former Constitution: See Const. 1908, Art. VI, § 19.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 26 Succession to governorship.
 
@@ -1634,20 +1268,13 @@ Sec. 26.
 History: Const. 1963, Art. V, § 26, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, §§ 16, 17.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 27 Salary of successor.
 
 Sec. 27.
    The legislature shall provide that the salary of any state officer while acting as governor shall be equal to that of the governor.
 
-
 History: Const. 1963, Art. V, § 27, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 18.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 28 State transportation commission; establishment; purpose; appointment, qualifications, and terms of members; director of state transportation department.
 
@@ -1658,9 +1285,6 @@ Sec. 28.
 
 
 History: Const. 1963, Art. V, § 28, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 29 Civil rights commission; members, term, duties, appropriation.
 
@@ -1673,9 +1297,6 @@ Sec. 29.
 History: Const. 1963, Art. V, § 29, Eff. Jan. 1, 1964
 Admin Rule: R 37.1 et seq. and R 37.101 of the Michigan Administrative Code.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 30 Limitations on terms of executive officers.
 
 Sec. 30.
@@ -1685,7 +1306,6 @@ Sec. 30.
 
 History: Add. Init., approved Nov. 3, 1992, Eff. Dec. 19, 1992
 
-© 2020 Legislative Council, State of Michigan
 Article VI
 JUDICIAL BRANCH
 
@@ -1701,8 +1321,6 @@ Compiler's Notes: The constitutional amendment set out above was submitted to, a
 Constitutionality: Const 1963, art 6, § 1 and art 9, §§ 1 and 3 do not require the state to pay the entire cost of trial court operations. It is for the legislature to determine whether to adopt a system of state funding of trial court operations. Grand Traverse Co v Michigan, 450 Mich 457, 538 NW2d 1 (1995).
 Former Constitution: See Const. 1908, Art. VII, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 Justices of the supreme court; number, term, nomination, election.
 
@@ -1713,9 +1331,6 @@ Sec. 2.
 History: Const. 1963, Art. VI, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 3 Chief justice; court administrator; other assistants.
 
 Sec. 3.
@@ -1723,9 +1338,6 @@ Sec. 3.
 
 
 History: Const. 1963, Art. VI, § 3, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 General superintending control over courts; writs; appellate jurisdiction.
 
@@ -1737,9 +1349,6 @@ History: Const. 1963, Art. VI, § 4, Eff. Jan. 1, 1964 ;-- Am. Init., approved N
 Former Constitution: See Const. 1908, Art. VII, § 4.
 Compiler's Notes: The constitutional amendment set out above was submitted to, and approved by, the electors as Proposal 18-2 at the November 6, 2018 general election. This amendment to the Constitution of Michigan of 1963 became effective December 22, 2018.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Court rules; distinctions between law and equity; master in chancery.
 
 Sec. 5.
@@ -1750,9 +1359,6 @@ History: Const. 1963, Art VI § 5, Eff. Jan. 1, 1964
 Constitutionality: The State of Michigan, through the combined actions of the Supreme Court, the Legislature, and the State Bar, may compulsorily exact dues, and require association of attorneys, to support only those duties and functions of the State Bar which serve a compelling state interest and which cannot be accomplished by means less intrusive upon the First Amendment rights of objecting attorneys. Falk v State Bar, 418 Mich 270; 342 NW2d 504 (1983).The regulation of the practice of law, the maintenance of high standards in the legal profession, and the discharge of the profession's duty to protect and inform the public are purposes in which the State of Michigan has a compelling interest justifying unavoidable intrusions on the First Amendment rights of attorneys; on the other hand, political and legislative activities are impermissible intrusions, as are activities designed to further commercial and economic interests of the members of the bar. Falk v State Bar, 418 Mich 270; 342 NW2d 504 (1983).
 Former Constitution: See Const. 1908, Art. VII, § 5.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 6 Decisions and dissents; writing, contents.
 
 Sec. 6.
@@ -1761,9 +1367,6 @@ Sec. 6.
 
 History: Const. 1963, Art. VI, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 7.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 7 Staff; budget; salaries of justices; fees.
 
@@ -1774,9 +1377,6 @@ Sec. 7.
 History: Const. 1963, Art. VI, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 8 Court of appeals; election of judges, divisions.
 
 Sec. 8.
@@ -1784,9 +1384,6 @@ Sec. 8.
 
 
 History: Const. 1963, Art. VI, § 8, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 9 Judges of court of appeals, terms.
 
@@ -1796,9 +1393,6 @@ Sec. 9.
 
 History: Const. 1963, Art. VI, § 9, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 10 Jurisdiction, practice and procedure of court of appeals.
 
 Sec. 10.
@@ -1806,9 +1400,6 @@ Sec. 10.
 
 
 History: Const. 1963, Art. VI, § 10, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 11 Circuit courts; judicial circuits, sessions, number of judges.
 
@@ -1819,9 +1410,6 @@ Sec. 11.
 History: Const. 1963, Art. VI, § 11, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 8.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 12 Circuit judges; nomination, election, term.
 
 Sec. 12.
@@ -1830,9 +1418,6 @@ Sec. 12.
 
 History: Const. 1963, Art. VI, § 12, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 9.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 13 Circuit courts; jurisdiction, writs, supervisory control over inferior courts.
 
@@ -1843,9 +1428,6 @@ Sec. 13.
 History: Const. 1963, Art. VI, § 13, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 10.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 14 County clerks; duties, vacancies; prosecuting attorneys, vacancies.
 
 Sec. 14.
@@ -1854,9 +1436,6 @@ Sec. 14.
 
 History: Const. 1963, Art. VI, § 14, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 11.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 15 Probate courts; districts, jurisdiction.
 
@@ -1867,9 +1446,6 @@ Sec. 15.
 History: Const. 1963, Art. VI, § 15, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 13.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 16 Probate judges; nomination, election, terms.
 
 Sec. 16.
@@ -1879,9 +1455,6 @@ Sec. 16.
 History: Const. 1963, Art. VI, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 14.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 17 Judicial salaries and fees.
 
 Sec. 17.
@@ -1889,9 +1462,6 @@ Sec. 17.
 
 
 History: Const. 1963, Art. VI, § 17, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 18 Salaries; uniformity, changes during term.
 
@@ -1902,9 +1472,6 @@ Sec. 18.
 
 History: Const. 1963, Art. VI, § 18, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 12; Art. XVI, § 3.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 19 Courts of record; seal, qualifications of judges.
 
@@ -1917,9 +1484,6 @@ Sec. 19.
 History: Const. 1963, Art. VI, § 19, Eff. Jan. 1, 1964 ;-- Am. 1996, S.J.R. D, approved Nov. 5, 1996, Eff. Dec. 21, 1996
 Former Constitution: See Const. 1908, Art. VII, § 17.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 20 Removal of domicile of judge.
 
 Sec. 20.
@@ -1928,9 +1492,6 @@ Sec. 20.
 
 History: Const. 1963, Art. VI, § 20, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Aug. 6, 1968, Eff. Sept. 21, 1968
 Former Constitution: See Const. 1908, Art. VII, § 19.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 21 Ineligibility for other office.
 
@@ -1941,9 +1502,6 @@ Sec. 21.
 History: Const. 1963, Art. VI, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 9.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 22 Incumbent judges, affidavit of candidacy.
 
 Sec. 22.
@@ -1951,9 +1509,6 @@ Sec. 22.
 
 
 History: Const. 1963, Art. VI, § 22, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Aug. 6, 1968, Eff. Sept. 21, 1968
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 23 Judicial vacancies, filling; appointee, term; successor; new offices.
 
@@ -1964,9 +1519,6 @@ Sec. 23.
 History: Const. 1963, Art. VI, § 23, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Aug. 6, 1968, Eff. Sept. 21, 1968
 Former Constitution: See Const. 1908, Art. VII, § 20.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 24 Incumbent judges, ballot designation.
 
 Sec. 24.
@@ -1975,9 +1527,6 @@ Sec. 24.
 
 History: Const. 1963, Art. VI, § 24, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Aug. 6, 1968, Eff. Sept. 21, 1968
 Former Constitution: See Const. 1908, Art. VII, § 23.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 25 Removal of judges from office.
 
@@ -1988,9 +1537,6 @@ Sec. 25.
 History: Const. 1963, Art. VI, § 25, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IX, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 26 Circuit court commissioners and justices of the peace, abolition; courts of limited jurisdiction.
 
 Sec. 26.
@@ -1999,9 +1545,6 @@ Sec. 26.
 
 
 History: Const. 1963, Art. VI, § 26, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 27 Power of appointment to public office.
 
@@ -2012,9 +1555,6 @@ Sec. 27.
 History: Const. 1963, Art. VI, § 27, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 11.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 28 Administrative action, review.
 
 Sec. 28.
@@ -2023,9 +1563,6 @@ Sec. 28.
 
 
 History: Const. 1963, Art. VI, § 28, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 29 Conservators of the peace.
 
@@ -2036,9 +1573,6 @@ Sec. 29.
 History: Const. 1963, Art. VI, § 29, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VII, § 18.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 30 Judicial tenure commission; selection; terms; duties; power of supreme court.
 
 Sec. 30.
@@ -2048,10 +1582,8 @@ Sec. 30.
 
 History: Add. H.J.R. PP, approved Aug. 6, 1968, Eff. Sept. 21, 1968
 
-© 2020 Legislative Council, State of Michigan
 Article VII
 LOCAL GOVERNMENT
-
 
 § 1 Counties; corporate character, powers and immunities.
 
@@ -2061,9 +1593,6 @@ Sec. 1.
 
 History: Const. 1963, Art. VII, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 1.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 County charters.
 
@@ -2075,9 +1604,6 @@ Sec. 2.
 
 History: Const. 1963, Art. VII, § 2, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 3 Reduction of size of county.
 
 Sec. 3.
@@ -2086,9 +1612,6 @@ Sec. 3.
 
 History: Const. 1963, Art. VII, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 2.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 County officers; terms, combination.
 
@@ -2099,9 +1622,6 @@ Sec. 4.
 History: Const. 1963, Art. VII, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 3.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 5 Offices at county seat.
 
 Sec. 5.
@@ -2111,9 +1631,6 @@ Sec. 5.
 History: Const. 1963, Art. VII, § 5, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 4.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 6 Sheriffs; security, responsibility for acts, ineligibility for other office.
 
 Sec. 6.
@@ -2122,9 +1639,6 @@ Sec. 6.
 
 History: Const. 1963, Art. VII, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 5.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 7 Boards of supervisors; members.
 
@@ -2136,9 +1650,6 @@ History: Const. 1963, Art. VII, § 7, Eff. Jan. 1, 1964
 Constitutionality: Section held invalid under federal constitution. Advisory Opinion re Constitutionality of 1966 PA 261, 380 Mich 736; 158 NW2d 497 (1968); In re Apportionment of Ontonagon County Board of Supervisors, 11 Mich App 348; 157 NW2d 698 (1967).
 Former Constitution: See Const. 1908, Art. VIII, § 7.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 8 Legislative, administrative, and other powers and duties of boards.
 
 Sec. 8.
@@ -2147,9 +1658,6 @@ Sec. 8.
 
 History: Const. 1963, Art. VII, § 8, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 8.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 9 Compensation of county officers.
 
@@ -2160,9 +1668,6 @@ Sec. 9.
 History: Const. 1963, Art. VII, § 9, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 9.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 10 Removal of county seat.
 
 Sec. 10.
@@ -2171,9 +1676,6 @@ Sec. 10.
 
 History: Const. 1963, Art. VII, § 10, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 13.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 11 Indebtedness, limitation.
 
@@ -2196,9 +1698,6 @@ Sec. 12.
 History: Const. 1963, Art. VII, § 12, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 14.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 13 Consolidation of counties, approval by electors.
 
 Sec. 13.
@@ -2206,9 +1705,6 @@ Sec. 13.
 
 
 History: Const. 1963, Art. VII, § 13, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 14 Organization and consolidation of townships.
 
@@ -2219,8 +1715,6 @@ Sec. 14.
 History: Const. 1963, Art. VII, § 14, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 15.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 15 County intervention in public utility service and rate proceedings.
 
@@ -2229,9 +1723,6 @@ Sec. 15.
 
 
 History: Const. 1963, Art. VII, § 15, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 16 Highways, bridges, culverts, airports; road tax limitation.
 
@@ -2242,9 +1733,6 @@ Sec. 16.
 History: Const. 1963, Art. VII, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 26.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 17 Townships; corporate character, powers and immunities.
 
 Sec. 17.
@@ -2253,9 +1741,6 @@ Sec. 17.
 
 History: Const. 1963, Art. VII, § 17, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 16.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 18 Township officers; term, powers and duties.
 
@@ -2266,9 +1751,6 @@ Sec. 18.
 History: Const. 1963, Art. VII, § 18, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 18.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 19 Township public utility franchises.
 
 Sec. 19.
@@ -2278,9 +1760,6 @@ Sec. 19.
 History: Const. 1963, Art. VII, § 19, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 19.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 20 Townships, dissolution; villages as cities.
 
 Sec. 20.
@@ -2288,9 +1767,6 @@ Sec. 20.
 
 
 History: Const. 1963, Art. VII, § 20, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 21 Cities and villages; incorporation, taxes, indebtedness.
 
@@ -2301,9 +1777,6 @@ Sec. 21.
 History: Const. 1963, Art. VII, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 20.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 22 Charters, resolutions, ordinances; enumeration of powers.
 
 Sec. 22.
@@ -2313,9 +1786,6 @@ Sec. 22.
 History: Const. 1963, Art. VII, § 22, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 21.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 23 Parks, boulevards, cemeteries, hospitals.
 
 Sec. 23.
@@ -2324,9 +1794,6 @@ Sec. 23.
 
 History: Const. 1963, Art. VII, § 23, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 22.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 24 Public service facilities.
 
@@ -2338,9 +1805,6 @@ Sec. 24.
 History: Const. 1963, Art. VII, § 24, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 23.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 25 Public utilities; acquisition, franchises, sale.
 
 Sec. 25.
@@ -2350,9 +1814,6 @@ Sec. 25.
 History: Const. 1963, Art. VII, § 25, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 25.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 26 Cities and villages, loan of credit.
 
 Sec. 26.
@@ -2360,9 +1821,6 @@ Sec. 26.
 
 
 History: Const. 1963, Art. VII, § 26, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 27 Metropolitan governments and authorities.
 
@@ -2373,9 +1831,6 @@ Sec. 27.
 History: Const. 1963, Art. VII, § 27, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 31.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 28 Governmental functions and powers; joint administration, costs and credits, transfers.
 
 Sec. 28.
@@ -2384,9 +1839,6 @@ Sec. 28.
 
 
 History: Const. 1963, Art. VII, § 28, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 29 Highways, streets, alleys, public places; control, use by public utilities.
 
@@ -2397,9 +1849,6 @@ Sec. 29.
 History: Const. 1963, Art. VII, § 29, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 28.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 30 Franchises and licenses, duration.
 
 Sec. 30.
@@ -2408,9 +1857,6 @@ Sec. 30.
 
 History: Const. 1963, Art. VII, § 30, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 29.
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 31 Vacation or alteration of roads, streets, alleys, public places.
 
@@ -2421,8 +1867,6 @@ Sec. 31.
 History: Const. 1963, Art. VII, § 31, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VIII, § 27.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 32 Budgets, public hearing.
 
@@ -2431,8 +1875,6 @@ Sec. 32.
 
 
 History: Const. 1963, Art. VII, § 32, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 33 Removal of elected officers.
@@ -2444,8 +1886,6 @@ Sec. 33.
 History: Const. 1963, Art. VII, § 33, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IX, § 8.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 34 Construction of constitution and law concerning counties, townships, cities, villages.
 
@@ -2455,7 +1895,6 @@ Sec. 34.
 
 History: Const. 1963, Art. VII, § 34, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
 Article VIII
 EDUCATION
 
@@ -2469,9 +1908,6 @@ Sec. 1.
 History: Const. 1963, Art. VIII, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XI, § 1.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 2 Free public elementary and secondary schools; discrimination.
 
 Sec. 2.
@@ -2482,8 +1918,6 @@ Sec. 2.
 History: Const. 1963, Art. VIII, § 2, Eff. Jan. 1, 1964 ;-- Am. Initiated Law, approved Nov. 3, 1970, Eff. Dec. 19, 1970
 Constitutionality: That portion of second sentence of second paragraph of this section, prohibiting use of public money to support attendance of any student or employment of any person at any location or institution where instruction is offered in whole or in part to nonpublic students, was held unconstitutional, void, and unenforceable because it contravened free exercise of religion guaranteed by the United States Constitution and was violative of equal protection of laws provisions of United States Constitution. Traverse City School District v Attorney General, 384 Mich 390; 185 NW2d 9 (1971).
 Former Constitution: See Const. 1908, Art. XI, § 9.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 3 State board of education; duties.
@@ -2498,9 +1932,6 @@ Sec. 3.
 History: Const. 1963, Art. VIII, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XI, §§ 2, 6.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 4 Higher education institutions; appropriations, accounting, public sessions of boards.
 
 Sec. 4.
@@ -2509,8 +1940,6 @@ Sec. 4.
 
 History: Const. 1963, Art. VIII, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XI, § 10.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 5 University of Michigan, Michigan State University, Wayne State University; controlling boards.
@@ -2522,9 +1951,6 @@ Sec. 5.
 History: Const. 1963, Art. VIII, § 5, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XI, §§ 3, 4, 5, 7, 8, 16.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 6 Other institutions of higher education, controlling boards.
 
 Sec. 6.
@@ -2533,9 +1959,6 @@ Sec. 6.
 
 History: Const. 1963, Art. VIII, § 6, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 7 Community and junior colleges; state board, members, terms, vacancies.
 
 Sec. 7.
@@ -2543,9 +1966,6 @@ Sec. 7.
 
 
 History: Const. 1963, Art. VIII, § 7, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 8 Services for disabled persons.
 
@@ -2556,9 +1976,6 @@ Sec. 8.
 History: Const. 1963, Art. VIII, § 8, Eff. Jan. 1, 1964 ;-- Am. S.J.R. I, approved Nov. 3, 1998, Eff. Dec. 19, 1998
 Former Constitution: See Const. 1908, Art. XI, § 15.
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 9 Public libraries, fines.
 
 Sec. 9.
@@ -2568,7 +1985,6 @@ Sec. 9.
 History: Const. 1963, Art. VIII, § 9, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XI, § 14.
 
-© 2020 Legislative Council, State of Michigan
 Article IX
 FINANCE AND TAXATION
 
@@ -2583,8 +1999,6 @@ History: Const. 1963, Art. IX, § 1, Eff. Jan. 1, 1964
 Constitutionality: Const 1963, art 6, § 1 and art 9, §§ 1 and 3 do not require the state to pay the entire cost of trial court operations. It is for the legislature to determine whether to adopt a system of state funding of trial court operations. Grand Traverse Co v Michigan, 450 Mich 457, 538 NW2d 1 (1995).
 Former Constitution: See Const. 1908, Art. X, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 Power of taxation, relinquishment.
 
@@ -2594,8 +2008,6 @@ Sec. 2.
 
 History: Const. 1963, Art. IX, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 9.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 3 Property taxation; uniformity; assessments; limitations; classes; approval of legislature.
@@ -2608,8 +2020,6 @@ History: Const. 1963, Art. IX, § 3, Eff. Jan. 1, 1964 ;-- Am. S.J.R. S, approve
 Constitutionality: Const 1963, art 6, § 1 and art 9, §§ 1 and 3 do not require the state to pay the entire cost of trial court operations. It is for the legislature to determine whether to adopt a system of state funding of trial court operations. Grand Traverse Co v Michigan, 450 Mich 457, 538 NW2d 1, (1995).
 Former Constitution: See Const. 1908, Art. X, §§ 3, 4, 7, 8.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Exemption of religious or educational nonprofit organizations.
 
@@ -2619,8 +2029,6 @@ Sec. 4.
 
 History: Const. 1963, Art. IX, § 4, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 5 Assessment of property of public service businesses.
 
@@ -2629,9 +2037,6 @@ Sec. 5.
 
 
 History: Const. 1963, Art. IX, § 5, Eff. Jan. 1, 1964 ;-- Am. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994
-
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Real and tangible personal property; limitation on general ad valorem taxes; adoption and alteration of separate tax limitations; exceptions to limitations; property tax on school district extending into 2 or more counties.
 
@@ -2644,8 +2049,6 @@ Section 6.
 History: Const. 1963, Art. IX, § 6, Eff. Jan. 1, 1964 ;-- Am. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Former Constitution: See Const. 1908, Art. X, § 21.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 7 Income tax.
 
@@ -2654,8 +2057,6 @@ Sec. 7.
 
 
 History: Const. 1963, Art. IX, § 7, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 8 Sales and use taxes.
@@ -2668,8 +2069,6 @@ Sec. 8.
 
 History: Const. 1963, Art. IX, § 8, Eff. Jan. 1, 1964 ;-- Am. Initiated Law, approved Nov. 5, 1974, Eff. Dec. 21, 1974 ;-- Am. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994
 Former Constitution: See Const. 1908, Art. X, § 23.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 9 Use of specific taxes on fuels for transportation purposes; authorization of indebtedness and issuance of obligations.
@@ -2684,8 +2083,6 @@ Sec. 9.
 History: Const. 1963, Art. IX, § 9, Eff. Jan. 1, 1964 ;-- Am. H.J.R. F, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Former Constitution: See Const. 1908, Art. X, § 22.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 10 Sales tax; distribution to local governments.
 
@@ -2696,8 +2093,6 @@ Sec. 10.
 History: Const. 1963, Art. IX, § 10, Eff. Jan. 1, 1964 ;-- Am. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994
 Former Constitution: See Const. 1908, Art. X, § 23.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 11 State school aid fund; source; distribution; guarantee to local school district.
 
@@ -2706,8 +2101,6 @@ Sec. 11.
 
 
 History: Const. 1963, Art. IX, § 11, Eff. Jan. 1, 1964 ;-- Am. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 12 Evidence of state indebtedness.
@@ -2719,8 +2112,6 @@ Sec. 12.
 History: Const. 1963, Art. IX, § 12, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 11.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 13 Public bodies, borrowing power.
 
@@ -2729,8 +2120,6 @@ Sec. 13.
 
 
 History: Const. 1963, Art. IX, § 13, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 14 State borrowing; short term.
@@ -2741,8 +2130,6 @@ Sec. 14.
 
 History: Const. 1963, Art. IX, § 14, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 15 Long term borrowing by state.
 
@@ -2751,8 +2138,6 @@ Sec. 15.
 
 
 History: Const. 1963, Art. IX, § 15, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 16 State loans to school districts.
@@ -2770,8 +2155,6 @@ Sec. 16.
 History: Const. 1963, Art. IX, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, §§ 27, 28.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 17 Payments from state treasury.
 
@@ -2781,8 +2164,6 @@ Sec. 17.
 
 History: Const. 1963, Art. IX, § 17, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 16.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 18 State credit.
@@ -2794,8 +2175,6 @@ Sec. 18.
 
 History: Const. 1963, Art. IX, § 18, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 12.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 19 Subscription to or interest in stock by state prohibited; exceptions.
@@ -2811,8 +2190,6 @@ Sec. 19.
 History: Const. 1963, Art. IX, § 19, Eff. Jan. 1, 1964 ;-- Am. H.J.R. GG, approved Nov. 7, 1978, Eff. Dec. 23, 1978 ;-- Am. S.J.R. T, approved Aug. 6, 2002, Eff. Sept. 21, 2002
 Former Constitution: See Const. 1908, Art. X, § 13.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 20 Deposit of state money in certain financial institutions; requirements.
 
@@ -2822,8 +2199,6 @@ Sec. 20.
 
 History: Const. 1963, Art. IX, § 20, Eff. Jan. 1, 1964 ;-- Am. H.J.R. GG, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Former Constitution: See Const. 1908, Art. X, § 15.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 21 Accounting for public moneys.
@@ -2836,8 +2211,6 @@ Sec. 21.
 History: Const. 1963, Art. IX, § 21, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 18.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 22 Examination and adjustment of claims against state.
 
@@ -2847,8 +2220,6 @@ Sec. 22.
 
 History: Const. 1963, Art. IX, § 22, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 20.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 23 Financial records; statement of revenues and expenditures.
@@ -2860,8 +2231,6 @@ Sec. 23.
 History: Const. 1963, Art. IX, § 23, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 17.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 24 Public pension plans and retirement systems, obligation.
 
@@ -2872,8 +2241,6 @@ Sec. 24.
 
 History: Const. 1963, Art. IX, § 24, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 25 Voter approval of increased local taxes; prohibitions; emergency conditions; repayment of bonded indebtedness guaranteed; implementation of section.
 
@@ -2882,8 +2249,6 @@ Sec. 25.
 
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 26 Limitation on taxes; revenue limit; refunding or transferring excess revenues; exceptions to revenue limitation; adjustment of state revenue and spending limits.
@@ -2898,8 +2263,6 @@ Sec. 26.
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Popular Name: Rainy Day Fund
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 27 Exceeding revenue limit; conditions.
 
@@ -2908,8 +2271,6 @@ Sec. 27.
 
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 28 Limitation on expenses of state government.
@@ -2920,8 +2281,6 @@ Sec. 28.
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 29 State financing of activities or services required of local government by state law.
 
@@ -2931,8 +2290,6 @@ Sec. 29.
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 30 Reduction of state spending paid to units of local government.
 
@@ -2941,8 +2298,6 @@ Sec. 30.
 
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 31 Levying tax or increasing rate of existing tax; maximum tax rate on new base; increase in assessed valuation of property; exceptions to limitations.
@@ -2954,8 +2309,6 @@ Sec. 31.
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 32 Suit to enforce sections 25 to 31.
 
@@ -2964,8 +2317,6 @@ Sec. 32.
 
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 33 Definitions applicable to sections 25 to 32.
@@ -2977,8 +2328,6 @@ Sec. 33.
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 34 Implementation of sections 25 to 33.
 
@@ -2987,8 +2336,6 @@ Sec. 34.
 
 
 History: Add. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 35 Michigan natural resources trust fund.
@@ -3006,9 +2353,6 @@ Sec. 35.
 
 History: Add. H.J.R. M, approved Nov. 6, 1984, Eff. Dec. 22, 1984 ;-- Am. S.J.R. E, approved Nov. 8, 1994, Eff. Dec. 24, 1994 ;-- Am. S.J.R. T, approved Aug. 6, 2002, Eff. Sept. 21, 2002
 
-© 2020 Legislative Council, State of Michigan
-
-
 § 35a Michigan state parks endowment fund.
 
 Sec. 35a.
@@ -3025,8 +2369,6 @@ Sec. 35a.
 History: Add. S.J.R. E, approved Nov. 8, 1994, Eff. Dec. 24, 1994 ;-- Am. S.J.R. T, approved Aug. 6, 2002, Eff. Sept. 21, 2002
 Compiler's Notes: This section was originally added to the Constitution by S.J.R. E as section 36, Eff. Dec. 24, 1994, but was compiled as § 36[1] to distinguish it from another section 36 added to Article 9, Eff. Apr. 30, 1994, which pertained to a tax on tobacco products. When this section (§ 36[1]) was amended by S.J.R. T, Eff. Sept. 21, 2002, it was renumbered as section 35a.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 36 Tax on tobacco products; dedication of proceeds.
 
@@ -3035,8 +2377,6 @@ Sec. 36.
 
 
 History: Add. S.J.R. S, approved Mar. 15, 1994, Eff. Apr. 30, 1994
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 37 Michigan veterans' trust fund.
@@ -3047,8 +2387,6 @@ Sec. 37.
 
 History: Add. H.J.R. H, approved Nov. 5, 1996, Eff. Dec. 21, 1996 ;-- Am. S.J.R. T, approved Aug. 6, 2002, Eff. Sept. 21, 2002
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 38 Michigan veterans' trust fund board of trustees; establishment.
 
@@ -3058,8 +2396,6 @@ Sec. 38.
 
 History: Add. H.J.R. H., approved Nov. 5, 1996, Eff. Dec. 21, 1996
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 39 Michigan veterans' trust fund board of trustees; administration of trust fund.
 
@@ -3068,8 +2404,6 @@ Sec. 39.
 
 
 History: Add. H.J.R. H., approved Nov. 5, 1996, Eff. Dec. 21, 1996
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 40 Michigan conservation and recreation legacy fund.
@@ -3129,8 +2463,6 @@ Sec. 40.
 
 History: Add. H.J.R. Z, approved Nov. 7, 2006, Eff. Dec. 23, 2006
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 41 Michigan game and fish protection trust fund.
 
@@ -3142,8 +2474,6 @@ Sec. 41.
 
 
 History: Add. H.J.R. Z, approved Nov. 7, 2006, Eff. Dec. 23, 2006
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 42 Michigan nongame fish and wildlife trust fund.
@@ -3161,7 +2491,6 @@ Sec. 42.
 
 History: Add. H.J.R. Z, approved Nov. 7, 2006, Eff. Dec. 23, 2006
 
-© 2020 Legislative Council, State of Michigan
 Article X
 PROPERTY
 
@@ -3174,8 +2503,6 @@ Sec. 1.
 
 History: Const. 1963, Art. X, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 8.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 2 Eminent domain; compensation.
@@ -3190,8 +2517,6 @@ Sec. 2.
 History: Const. 1963, Art. X, § 2, Eff. Jan. 1, 1964 ;-- Am. S.J.R. E, approved Nov. 7, 2006, Eff. Dec. 23, 2006
 Former Constitution: See Const. 1908, Art. XIII, §§ 1-5.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 3 Homestead and personalty, exemption from process.
 
@@ -3201,8 +2526,6 @@ Sec. 3.
 
 History: Const. 1963, Art. X, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XIV, §§ 1-4.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 4 Escheats.
@@ -3214,8 +2537,6 @@ Sec. 4.
 History: Const. 1963, Art. X, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. VI, § 20.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 5 State lands.
 
@@ -3225,8 +2546,6 @@ Sec. 5.
 
 
 History: Const. 1963, Art. X, § 5, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 6 Resident aliens, property rights.
@@ -3238,7 +2557,6 @@ Sec. 6.
 History: Const. 1963, Art. X, § 6, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 9.
 
-© 2020 Legislative Council, State of Michigan
 Article XI
 PUBLIC OFFICERS AND EMPLOYMENT
 
@@ -3252,8 +2570,6 @@ Sec. 1.
 History: Const. 1963, Art. XI, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 2.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 Terms of office of state and county officers.
 
@@ -3263,8 +2579,6 @@ Sec. 2.
 
 History: Const. 1963, Art. XI, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 1.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 3 Extra compensation.
@@ -3276,8 +2590,6 @@ Sec. 3.
 History: Const. 1963, Art. XI, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVI, § 3.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Custodian of public moneys; eligibility to office, accounting.
 
@@ -3287,8 +2599,6 @@ Sec. 4.
 
 History: Const. 1963, Art. XI, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. X, § 19.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 5 Classified state civil service; scope; exempted positions; appointment and terms of members of state civil service commission; state personnel director; duties of commission; collective bargaining for state police troopers and sergeants; appointments, promotions, demotions, or removals; increases or reductions in compensation; creating or abolishing positions; recommending compensation for unclassified service; appropriation; reports of expenditures; annual audit; payment for personal services; violation; injunctive or mandamus proceedings.
@@ -3311,8 +2621,6 @@ Sec. 5.
 History: Const. 1963, Art XI, § 5, Eff. Jan. 1, 1964 ;-- Am. Initiated Law, approved Nov. 7, 1978, Eff. Dec. 23, 1978
 Former Constitution: See Const. 1908, Art. VI, § 22.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 6 Merit systems for local governments.
 
@@ -3321,8 +2629,6 @@ Sec. 6.
 
 
 History: Const. 1963, Art. XI, § 6, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 7 Impeachment of civil officers.
@@ -3338,8 +2644,6 @@ Sec. 7.
 History: Const. 1963, Art. XI, § 7, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. IX, §§ 1-4.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 8 Convictions for certain felonies; eligibility for elective office or certain positions of public employment.
 
@@ -3350,7 +2654,6 @@ Sec. 8.
 
 History: Add. S.J.R. V, approved Nov. 2, 2010, Eff. Dec. 18, 2010
 
-© 2020 Legislative Council, State of Michigan
 Article XII
 AMENDMENT AND REVISION
 
@@ -3363,8 +2666,6 @@ Sec. 1.
 
 History: Const. 1963, Art. XII, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVII, § 1.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 2 Amendment by petition and vote of electors.
@@ -3379,8 +2680,6 @@ Sec. 2.
 History: Const. 1963, Art. XII, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVII, §§ 2, 3.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 3 General revision of constitution; submission of question, convention delegates and meeting.
 
@@ -3393,8 +2692,6 @@ Sec. 3.
 History: Const. 1963, Art. XII, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Art. XVII, § 4.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Severability.
 
@@ -3404,7 +2701,6 @@ Sec. 4.
 
 History: Add. Init., approved Nov. 3, 1992, Eff. Dec. 19, 1992
 
-© 2020 Legislative Council, State of Michigan
 Article Schedule
 SCHEDULE AND TEMPORARY PROVISIONS To insure the orderly transition from the constitution of 1908 to this constitution the following schedule and temporary provisions are set forth to be effective for such period as are thereby required.
 
@@ -3418,8 +2714,6 @@ Sec. 1.
 History: Const. 1963, Schedule, § 1, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 8.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 2 Existing public and private rights, continuance.
 
@@ -3429,8 +2723,6 @@ Sec. 2.
 
 History: Const. 1963, Schedule, § 2, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 2.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 3 Officers, continuance in office.
@@ -3443,8 +2735,6 @@ Sec. 3.
 History: Const. 1963, Schedule, § 3, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 5.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 4 Officers elected in spring of 1963, term.
 
@@ -3455,8 +2745,6 @@ Sec. 4.
 History: Const. 1963, Schedule, § 4, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 6.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 5 State elective executive officers and senators, 2 and 4 year terms.
 
@@ -3465,8 +2753,6 @@ Sec. 5.
 
 
 History: Const. 1963, Schedule, § 5, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 6 Supreme court, reduction to 7 justices.
@@ -3477,8 +2763,6 @@ Sec. 6.
 
 History: Const. 1963, Schedule, § 6, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 7 Judges of probate, eligibility for re-election.
 
@@ -3488,8 +2772,6 @@ Sec. 7.
 
 History: Const. 1963, Schedule, § 7, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 8 Judicial officers, staggered terms.
 
@@ -3498,8 +2780,6 @@ Sec. 8.
 
 
 History: Const. 1963, Schedule, § 8, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 9 State board of education; first election, terms.
@@ -3511,8 +2791,6 @@ Sec. 9.
 
 History: Const. 1963, Schedule, § 9, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 10 Boards controlling higher education institutions and state board of public community and junior colleges, terms.
 
@@ -3521,8 +2799,6 @@ Sec. 10.
 
 
 History: Const. 1963, Schedule, § 10, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 11 Michigan State University trustees and Wayne State University governors, terms.
@@ -3533,8 +2809,6 @@ Sec. 11.
 
 History: Const. 1963, Schedule, § 11, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 12 Initial allocation of departments by law or executive order.
 
@@ -3543,8 +2817,6 @@ Sec. 12.
 
 
 History: Const. 1963, Schedule, § 12, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 13 State contracts, continuance.
@@ -3556,8 +2828,6 @@ Sec. 13.
 
 History: Const. 1963, Schedule, § 13, Eff. Jan. 1, 1964
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 14 Mackinac Bridge Authority; refunding of bonds, transfer of functions to highway department.
 
@@ -3566,8 +2836,6 @@ Sec. 14.
 
 
 History: Const. 1963, Schedule, § 14, Eff. Jan. 1, 1964
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 15 Submission of constitution; time, notice.
@@ -3579,8 +2847,6 @@ Sec. 15.
 History: Const. 1963, Schedule, § 15, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 10.
 
-© 2020 Legislative Council, State of Michigan
-
 
 § 16 Voters, ballots, effective date.
 
@@ -3590,8 +2856,6 @@ Sec. 16.
 
 History: Const. 1963, Schedule, § 16, Eff. Jan. 1, 1964
 Former Constitution: See Const. 1908, Schedule, § 11.
-
-© 2020 Legislative Council, State of Michigan
 
 
 § 0 Vote Record.
