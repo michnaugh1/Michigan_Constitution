@@ -84,4 +84,4 @@ Meetings of the legislature.
 
 Style of the laws.
 
-22. The style of the laws of this State shall be: "Be it enacted by the Senate and House of Representatives of the State of Michigan."
+22. The style of the laws of this State shall be: "Be it enacted by the Senate and House of Representatives of the State of Michigan." 
