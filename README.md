@@ -28,4 +28,4 @@ This project was inspired by the github page of a history of the United States C
 - Presented at an election held on April 1, 1963, and adopted; 
 - A recount established the vote as 810,860 to 803,436.
 
-The constitutional provisions in this publication are reprinted from the text of the Michigan Compiled Laws, supplemented through January 1, 2011. Materials in boldface type, particularly catchlines and annotations, are not part of the Constitution.
+The constitutional provisions in this publication are reprinted from the text of the Michigan Compiled Laws, supplemented through January 1, 2011.
